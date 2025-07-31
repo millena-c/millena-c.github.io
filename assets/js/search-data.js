@@ -37,11 +37,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/_pages/dropdown/";
           },
-        },{id: "post-primeirodia",
+        },{id: "post-a-post-with-plotly-js",
         
-          title: "Primeirodia",
+          title: "a post with plotly.js",
         
-        description: "",
+        description: "essa foi a primeira experiência",
         section: "Posts",
         handler: () => {
           
